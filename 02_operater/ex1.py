@@ -7,10 +7,12 @@ b = 3
 print(a+b)
 print(a - b)
 print(a * b)
-print(a / b)
+print(a / b)    # float 형
 print(a % b)    # 나머지
 print(a // b)   # 몫
 print(a ** b)
+
+print(10/2)
 
 # 복합 대입 연산자
 a = 0
